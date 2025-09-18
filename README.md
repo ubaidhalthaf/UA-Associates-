@@ -30,7 +30,7 @@
             </a>
             <ul class="flex space-x-6">
                 <li><a href="#home" class="text-white hover:text-teal-300 transition">Home</a></li>
-                <li><a href="#about" class="text-white hover:text-teal-300 transition">about</a></li>
+                <li><a href="#about" class="text-white hover:text-teal-300 transition">About</a></li>
                 <li><a href="#services" class="text-white hover:text-teal-300 transition">Services</a></li>
                 <li><a href="#blog" class="text-white hover:text-teal-300 transition">Blog</a></li>
                 <li><a href="#contact" class="text-white hover:text-teal-300 transition">Contact</a></li>
